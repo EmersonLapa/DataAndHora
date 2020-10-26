@@ -1,0 +1,13 @@
+C:\Users\emers\source\repos\DataEHora\obj\Debug\netcoreapp3.1\DataEHora.csprojAssemblyReference.cache
+C:\Users\emers\source\repos\DataEHora\obj\Debug\netcoreapp3.1\DataEHora.AssemblyInfoInputs.cache
+C:\Users\emers\source\repos\DataEHora\obj\Debug\netcoreapp3.1\DataEHora.AssemblyInfo.cs
+C:\Users\emers\source\repos\DataEHora\obj\Debug\netcoreapp3.1\DataEHora.csproj.CoreCompileInputs.cache
+C:\Users\emers\source\repos\DataEHora\bin\Debug\netcoreapp3.1\DataEHora.exe
+C:\Users\emers\source\repos\DataEHora\bin\Debug\netcoreapp3.1\DataEHora.deps.json
+C:\Users\emers\source\repos\DataEHora\bin\Debug\netcoreapp3.1\DataEHora.runtimeconfig.json
+C:\Users\emers\source\repos\DataEHora\bin\Debug\netcoreapp3.1\DataEHora.runtimeconfig.dev.json
+C:\Users\emers\source\repos\DataEHora\bin\Debug\netcoreapp3.1\DataEHora.dll
+C:\Users\emers\source\repos\DataEHora\bin\Debug\netcoreapp3.1\DataEHora.pdb
+C:\Users\emers\source\repos\DataEHora\obj\Debug\netcoreapp3.1\DataEHora.dll
+C:\Users\emers\source\repos\DataEHora\obj\Debug\netcoreapp3.1\DataEHora.pdb
+C:\Users\emers\source\repos\DataEHora\obj\Debug\netcoreapp3.1\DataEHora.genruntimeconfig.cache
